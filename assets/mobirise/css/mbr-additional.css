@@ -25,12 +25,15 @@
 #menu-8 .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#menu-b .mbr-brand__name {
+#menu-g .mbr-brand__name {
   font-size: 16px;
 }
-#menu-b.mbr-navbar--stuck .mbr-navbar__section {
+#menu-g.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#menu-b .mbr-navbar__hamburger {
+#menu-g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#form1-i .mbr-header__text {
   color: #ffffff;
 }
