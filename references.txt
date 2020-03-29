@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/24758606/extract-common-html-content-to-separate-files-for-reusing
