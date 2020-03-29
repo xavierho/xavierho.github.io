@@ -1,5 +1,10 @@
 @import 'https://fonts.googleapis.com/css2?family=Noto+Sans';
 
+html *
+{
+   font-family: 'Noto Sans', sans-serif !important;
+}
+
 
 /* Style the header with a grey background and some padding */
 .header {
