@@ -23,10 +23,10 @@ a {
 
 .navB {
     text-decoration: none;
-    background-color: #f4511e;
-    padding: 16px 32px;
+    background-color: #4d4c7d;
+    padding: 5px 5px;
     text-align: center;
-    opacity: 0.1;
+    opacity: 0;
     transition: 0.3s
 }
 
