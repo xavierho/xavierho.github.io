@@ -94,18 +94,17 @@ img {
     content: "";
     display: table;
     clear: both;
-    }
-    div{
-        float:left;
-        height:470px; 
-        width:25%;
-        padding:0 10px;
-    }
-    #col1{ 
-        background-color: #a1edcc; 
-    } 
-    #col2{ 
-        background-color:#a0e9ed; 
-        width:75%; 
-    } 
 }
+div{
+    float:left;
+    height:470px; 
+    width:25%;
+    padding:0 10px;
+}
+#col1{ 
+    background-color: #a1edcc; 
+} 
+#col2{ 
+    background-color:#a0e9ed; 
+    width:75%; 
+} 
