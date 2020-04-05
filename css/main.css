@@ -29,7 +29,8 @@ a {
 
 .navB:hover {
     background-color: #4d4c7d;
-    transition: 0.3s
+    transition: 0.3s;
+    color: #fff;
 }
 
 a:hover {
