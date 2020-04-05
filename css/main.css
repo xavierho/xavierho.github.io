@@ -95,12 +95,7 @@ img {
     display: table;
     clear: both;
 }
-div{
-    float:left;
-    height:470px; 
-    width:25%;
-    padding:0 10px;
-}
+
 #col1{ 
     background-color: #a1edcc; 
 } 
